@@ -1,0 +1,25 @@
+.d-flex{
+    padding: 0 250px;
+    margin-top: 50px;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.example-card{
+    display: flex; 
+    justify-content: flex-end;
+    margin-right: 100px;
+}
+
+.mat-toolbar {
+    background-color: white;
+    color: black;
+    font-size: 40px;
+  }
+
+  .col-md-5{
+    width: 35em;
+  }
+
